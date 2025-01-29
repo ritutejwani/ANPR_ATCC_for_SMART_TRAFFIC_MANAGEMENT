@@ -21,7 +21,7 @@ Features
 
 --> Detects and recognizes vehicle license plates for tracking and monitoring purposes.
 
-6.Automatic Traffic Counting and Classification (ATCC):
+6.Automatic Traffic Control and Classification (ATCC):
 
 --> Counts and classifies vehicles in real-time for better traffic management.
 
