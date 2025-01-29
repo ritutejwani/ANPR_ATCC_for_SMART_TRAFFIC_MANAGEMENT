@@ -1,4 +1,4 @@
-An AI-powered traffic management system designed to efficiently handle real-time traffic at junctions using Automatic Traffic Counting and Classification (ATCC) and Automatic Number Plate Recognition (ANPR). The system dynamically manages traffic signals based on real-time data, reducing congestion and improving traffic flow.
+An AI-powered traffic management system designed to efficiently handle real-time traffic at junctions using Automatic Traffic Control and Classification (ATCC) and Automatic Number Plate Recognition (ANPR). The system dynamically manages traffic signals based on real-time data, reducing congestion and improving traffic flow.
 
 Features
 1.Helmet Detection:
